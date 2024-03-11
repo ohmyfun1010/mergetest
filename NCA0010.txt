@@ -1,3 +1,4 @@
 NCA0010{
     a
+    catch
 }
